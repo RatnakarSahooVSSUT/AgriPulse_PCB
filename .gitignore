@@ -1,0 +1,43 @@
+# ==========================================
+# KiCad Project - Temporary Files
+# ==========================================
+
+# Project-specific local settings
+*.kicad_prl
+
+# Backup directories
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Lock files
+*.lck
+~*.lck
+
+# Autosave files
+_autosave-*
+#auto_saved_files#
+
+# Footprint cache
+fp-info-cache
+
+# Local KiCad history
+.history/
+
+# ==========================================
+# Generated Files
+# ==========================================
+
+*.net
+*.dsn
+*.ses
+
+# ==========================================
+# Operating System
+# ==========================================
+
+Thumbs.db
+.DS_Store
+desktop.ini
